@@ -1,1 +1,2 @@
-# terraform-practice
+테라폼 연습용 repository
+`
